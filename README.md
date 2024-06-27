@@ -4,7 +4,7 @@
 ## Abstract
 NLP 100 Exercise is a bootcamp designed for learning skills for programming, data analysis, and research activities by taking practical and exciting assignments([NLP 100 Exercise 2020 (Rev 2)](https://nlp100.github.io/en/)).
 
-I worked on this exercise in the NLP study group of the Komachi Laboratory at Tokyo Metropolitan University.
+I worked on this exercise in the NLP study group of the [Komachi Laboratory](https://www.komachi.live/) at Tokyo Metropolitan University.
 
 <hr>
 <br>
